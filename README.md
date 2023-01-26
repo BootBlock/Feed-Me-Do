@@ -6,3 +6,6 @@ This application was written to replace my usage of Klipfolio Personal Dashboard
 The quality of FMD is to be considered at an alpha level as it wasn't originally going to be released publicly; not much testing has been performed and the UI needs *a lot* of work. I tend to put a lot of work into "me-ware" but these days I'm realising that that isn't a great investment of time, so FMD is the first application that doesn't have an interface that I consider very good in a few places (the Feeds Manager - yikes).
 
 Releases will be made when a decent or useful amount of work has been done.
+
+## Download
+Download the latest release from the [Releases](https://github.com/BootBlock/Feed-Me-Do/releases) section on the right.
