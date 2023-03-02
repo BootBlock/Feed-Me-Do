@@ -12,3 +12,6 @@ Download the latest release from the [Releases](https://github.com/BootBlock/Fee
 
 ### Requirements
 FND requires Windows 7 or higher, and .NET 7.0+ to be installed. If .NET isn't installed when launching FMD, it should ask you whether you'd like to download it.
+
+## Documentation
+While there's no real documentation, the [wiki section](https://github.com/BootBlock/Feed-Me-Do/wiki) contains some information that you may find beneficial.
