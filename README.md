@@ -8,7 +8,7 @@ The quality of FMD is to be considered at an alpha level as it wasn't originally
 Releases will be made when a decent or useful amount of work has been done, and/or I'm aware that other people are actually using it.
 
 ## What does Feed-Me-Do look like?
-Here's a screenshot of FMD with the Carbon theme, showing a couple of feeds.
+Here's a screenshot of FMD with the Carbon theme, showing a couple of feeds. Any blurriness in the below image is due to GitHub scaling down the image; it looks normal and crisp on your desktop.
 
 ![image](https://github.com/BootBlock/Feed-Me-Do/assets/18527642/9e23763e-df6a-43da-979a-889110ce33b0)
 
