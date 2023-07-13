@@ -12,6 +12,8 @@ Here's a screenshot of FMD with the Carbon theme, showing a couple of feeds.
 
 ![image](https://github.com/BootBlock/Feed-Me-Do/assets/18527642/9e23763e-df6a-43da-979a-889110ce33b0)
 
+Cursoring over a feed item will pop up a window showing a summary of the feed article, and clicking on the feed item will open it within the system's default browser or the built-in browser based on Microsoft Edge - depending on your settings.
+
 ## Download
 Download the latest release from the [Releases](https://github.com/BootBlock/Feed-Me-Do/releases) section on the right.
 
